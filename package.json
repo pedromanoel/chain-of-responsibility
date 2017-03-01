@@ -1,0 +1,19 @@
+{
+  "name": "command-chain",
+  "version": "0.0.1",
+  "description": "Chain of Responsibility, good for command line interpretation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedromanoel/chain-of-responsibility.git"
+  },
+  "author": "Pedro Evangelista",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedromanoel/chain-of-responsibility/issues"
+  },
+  "homepage": "https://github.com/pedromanoel/chain-of-responsibility#readme"
+}
